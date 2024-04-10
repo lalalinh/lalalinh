@@ -1,7 +1,6 @@
 {
-Gia-Linh Tran
-A sophomore in a AP CS class
-Love every cookie & cream treats
+Hi! I go by Gia,
+    I'm currently a sophomore in a AP CS class
 }
 
 **˚୨୧⋆｡˚⋆**
