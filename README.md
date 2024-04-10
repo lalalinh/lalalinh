@@ -1,7 +1,7 @@
 {
-Gia T. not gia(n)t!
+Gia-Linh Tran
 A sophomore in a AP CS class
-<I wanna 'oreo bingsoo'.>
+Love every cookie & cream treats
 }
 
 **˚୨୧⋆｡˚⋆**
