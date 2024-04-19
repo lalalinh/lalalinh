@@ -1,6 +1,6 @@
 {
 Hi! I go by Gia,
-    I'm currently a sophomore in a AP CS class
+    I am currently a sophomore in a AP CS class
 }
 
 **˚୨୧⋆｡˚⋆**
