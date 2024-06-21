@@ -1,6 +1,5 @@
 {
-Hi! I go by Gia,
-    I am currently a sophomore in a AP CS class
+Hi! My name is Gia Linh, I am a sophomore student at Henry M. Jackson High School
 }
 
 **˚୨୧⋆｡˚⋆**
