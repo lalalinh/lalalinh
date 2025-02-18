@@ -1,5 +1,5 @@
 {
-Hi! My name is Gia. 
+Hi! 
 }
 
 **⋆˚｡⋆୨୧⋆｡˚⋆**
