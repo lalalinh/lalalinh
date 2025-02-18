@@ -1,5 +1,7 @@
 {
-Hi! My name is Gia Linh, I am a sophomore student at Henry M. Jackson High School
+Hi! My name is Gia. 
+I am curious about tech & design. 
+Let's connect!
 }
 
-**˚୨୧⋆｡˚⋆**
+**⋆˚｡⋆୨୧⋆｡˚⋆**
